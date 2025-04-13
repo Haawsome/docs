@@ -6,7 +6,7 @@ The game server can automatically record a full replay of every round played. Re
 
 ### Build Configuration
 
-Your server muts have a full build configuration/CDN (not just ACZ) configured. Otherwise, old replays will cease to work as the game cannot be downloaded by the launcher anymore.
+Your server must have a full build configuration/CDN (not just ACZ) configured. Otherwise, old replays will cease to work as the game cannot be downloaded by the launcher anymore.
 
 ### Replay CVars
 
